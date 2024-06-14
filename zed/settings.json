@@ -1,0 +1,36 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run the `open default settings` command
+// from the command palette or from `Zed` application menu.
+{
+  "features": {
+    // Show Copilot icon in status bar
+    "copilot": false
+  },
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "base_keymap": "VSCode",
+  "theme": "SynthWave 84 Dark",
+  "vim_mode": true,
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+  "collaboration_panel": {
+    // Whether to show the collaboration panel button in the status bar.
+    "button": false
+    // Where to dock channels panel. Can be 'left' or 'right'.
+  },
+  "chat_panel": {
+    // Whether to show the collaboration panel button in the status bar.
+    "button": false
+  },
+  "assistant": {
+    // Whether to show the assistant panel button in the status bar.
+    "button": false
+  }
+}

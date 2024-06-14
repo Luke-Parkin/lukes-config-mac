@@ -1,0 +1,15 @@
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Setting","setting":"theme","value":"One Dark"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Setting","setting":"keymap","value":"VSCode"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"App","operation":"first open"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"App","operation":"welcome page: toggle vim"}
+{"signed_in":false,"milliseconds_since_first_event":800,"type":"App","operation":"welcome page: toggle vim"}
+{"signed_in":false,"milliseconds_since_first_event":1183,"type":"App","operation":"welcome page: toggle vim"}
+{"signed_in":false,"milliseconds_since_first_event":2955,"type":"App","operation":"welcome page: change theme"}
+{"signed_in":false,"milliseconds_since_first_event":5427,"type":"Setting","setting":"theme","value":"Gruvbox Dark Soft"}
+{"signed_in":false,"milliseconds_since_first_event":6474,"type":"App","operation":"welcome page: change theme"}
+{"signed_in":false,"milliseconds_since_first_event":27594,"type":"Setting","setting":"theme","value":"Ayu Mirage"}
+{"signed_in":false,"milliseconds_since_first_event":29008,"type":"App","operation":"welcome page: change keymap"}
+{"signed_in":false,"milliseconds_since_first_event":33174,"type":"Setting","setting":"keymap","value":"VSCode"}
+{"signed_in":false,"milliseconds_since_first_event":34503,"type":"App","operation":"welcome page: install cli"}
+{"signed_in":false,"milliseconds_since_first_event":45184,"type":"App","operation":"welcome page: toggle metric telemetry"}
+{"signed_in":false,"milliseconds_since_first_event":45186,"type":"Setting","setting":"metric telemetry","value":"false"}
